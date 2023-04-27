@@ -1,0 +1,34 @@
+{
+    "company": "Company",
+    "products": "Products",
+    "useful": "Useful",
+    "export": "Export",
+    "contact": "Contact",
+    "language": "Language",
+    "homepage": "Homepage",
+
+
+
+    "quality_guarantee": "Quality guarantee",
+    "quality_guarantee_content": "We guarantee that our products will satisfy your high demands.",
+    "easy_order": "Easy order",
+    "easy_order_content": "Easily order all our products via tablets.",
+    "free_delivery": "Free delivery",
+    "free_delivery_content": "Fast and free delivery of ordered products anywhere in the capital.",
+    "reliable_cooperation": "Reliable cooperation",
+    "reliable_cooperation_content": "With its fresh and natural products, 'Ter Önüm' is always at your service.",
+
+
+
+    "sendMailError": "No place should be empty!",
+    "sendMailSuccess": "Your request has been sent successfully!",
+
+    "sendMail": {
+        "header": "Write us",
+        "name": "Your name...",
+        "phoneNumber": "Your phone number...",
+        "email": "Email",
+        "content": "Your wish...",
+        "submitButton": "Submit"
+    }
+}

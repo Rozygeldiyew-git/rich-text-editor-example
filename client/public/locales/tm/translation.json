@@ -1,0 +1,33 @@
+{
+    "company": "Kompaniýa",
+    "products": "Önümler",
+    "useful": "Peýdaly",
+    "export": "Eksport",
+    "contact": "Habarlaşmak",
+    "language": "Dil",
+    "homepage": "Baş sahypa",
+
+
+    "quality_guarantee": "Hilli kepillik",
+    "quality_guarantee_content": "Önümlerimiziň Siziň ýokary islegleriňizi kanagatlandyrjakdygyna kepil geçýäris.",
+    "easy_order": "Aňsat sargyt",
+    "easy_order_content": "Önümleriň ähli görnüşlerini görkezilen planşediň üsti bilen aňsat görnüşde sargyt bermek.",
+    "free_delivery": "Mugt dostawka",
+    "free_delivery_content": "Sargyt edilen önümleri paýtagtymyzyň çäginde islendik ýere tiz we mugt eltip bermek.",
+    "reliable_cooperation": "Ynamly hyzmatdaşlyk",
+    "reliable_cooperation_content": "Özüniň ter we tebigy önümleri bilen 'Ter Önüm' elmydama Siziň hyzmatyňyzda.",
+
+
+    "sendMailError": "Hiç bir ýer boş bolmaly däldir!",
+    "sendMailSuccess": "Siziň islegiňiz üstünlikli ugradyldy!",
+
+    "sendMail": {
+        "header": "Bize ýazyň",
+        "name": "Adyňyz...",
+        "phoneNumber": "Telefon belgiňiz...",
+        "email": "E-poçta adresiňiz...",
+        "content": "Siziň islegiňiz...",
+        "submitButton": "Ugrat"
+    }
+    
+}
